@@ -2,27 +2,27 @@
       Todo ERP System    
     --------------------------------------------------
     
-    MMMMMMMX0OkkkxxxkkOO0NMMMMMMM
-    MMMMWOxxOOOOOOOOOOOOkxxKMMMMM
-    MMMXdkOOOOkkkkkOOOOOOOOxxWMMM
-    MMWoOko;'.......;okOOOOOkdWMM
-    MMkxo.            ,xOOOOOdOMM
-    MMox.  ..    .,    ,kOOOOkdMM
-    MMoOo',oc....,xl'':ldOOOOOoMM
-    MMdkxoxWWOoxlNWWWokdoOOOOkdMM
-    MMOdkdlOOkkOkOOOOkKxxOOOOdOMM
-    MMWoOOo0KKKOKKKKKKKoOOOOOoWMM
-    MMMOxOkoKK0kk0KKKKdxOOOOdKMMM
-    MMMWdxOkdkKKKKKKOokOOOOd0MMMM
-    MMMMWxxOOxlxkkdldOOOOxdXMMMMM
-    MMMMMMKokOOdxxxOOkxddxxk0MMMM
-    MMMMW0xxdooOOkodddkOOOOOkd0WM
-    MMM0dkOOOlxddolOOOOOOOOOOOkdX
-    MNdxOOOOddOOOklOOOOOOOOOOOOOo
-    XokOOOOkoOOOOOlkOOOOOOOOOOOOk
-    OdOOOOOkxOOOOOdxOOOOOOOOOkxxO
-    MKOkxxxkkOOOOOOOkkkxxxkOOKWMM
-    MMMMMWNXK0000000KKXNWMMMMMMMM
+           ..',,,;;;,,''.          
+         ';;'''''''''''',;;.       
+       .:,'''',,,,,'''''''';;      
+       c',cxOKXXXXX0xc,''''',:     
+      ,;c0NWWWWWWWNWWNk;''''':'    
+      c;0WW0KWWWWXkNWWWk,'''',:    
+      c'cOkco0XXKk;lOOdl:'''''c    
+      :,;c;  'c;l    c,:c'''',:    
+      ':,:l'',,','''',.;;'''':'    
+       c''c....'.......c'''''c     
+       ';',c...,,.....:;'''':.     
+        :;',:,......'c,'''':.      
+         ;;'';l;,,:l:'''';:.       
+          .c,'':;;;'',;::;;,.      
+         .;;:cc'',c:::,''''',:.    
+       .:,'''l;::cl''''''''''',:.  
+      :;''''::''',l'''''''''''''c. 
+    .c,'''',c'''''l,'''''''''''',: 
+    ':''''',;''''':;''''''''',;;'  
+     .',;;;,,''''''',,,;;;,''.     
+           ............            
     
     --------------------------------------------------
       Twitter - @0xMnkhod 
